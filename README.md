@@ -6,7 +6,7 @@
   <img src="https://media.tenor.com/images/4a5a50779d8f3f84b5b413f04b1d8361/tenor.gif" alt="Hydra We Bhack" />
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Yoshan Hasanga</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sachindu Madusara</h1>
 <h3 align="center">A passionate software engineer from Sri Lanka, with a love for innovation and technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yoshanhasanga&label=Profile%20views&color=0e75b6&style=flat" alt="yoshanhasanga" /> </p>
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about : **Software Engineering | Web Development (HTML, CSS, JavaScript, Bootstrap) | Arduino Projects | Python | PHP | and AI programming | AI and robotics (e.g., floating garbage removal project) | and YouTube Content Creation (YK Codex Studio).**
 
-- 📫 How to reach me : **Email at hasangajayathissa@gmail.com, GitHub at yoshanhasanga, YouTube via YK Codex Studio.**
+- 📫 How to reach me : **Email at sachindumadusara4@gmail.com, GitHub at Sachindu Madusara, YouTube via ASN TECHNOLOGY.**
 
 - ⚡ Fun fact : **I’m passionate about both software development and robotics, and I love exploring new technologies to solve real-world problems—like building AI-driven robots to clean up floating garbage!**
 <hr>
