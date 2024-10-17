@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at : GitHub: https://github.com/users/sachndu/projects/1
 
-- 💬 Ask me about : **Software Engineering | Web Development (HTML, CSS, JavaScript, Bootstrap) | Arduino Projects | Python | PHP | and AI programming | AI and robotics (e.g., floating garbage removal project) | and YouTube Content Creation (YK Codex Studio).**
+- 💬 Ask me about : **Software Engineering | Web Development (HTML, CSS, JavaScript, Bootstrap) | Arduino Projects | Python | PHP | and AI programming | AI and robotics (e.g., floating garbage removal project) | and YouTube Content Creation (ASN TECHNOLOGY).**
 
 - 📫 How to reach me : **Email at sachindumadusara4@gmail.com, GitHub at Sachindu Madusara, YouTube via ASN TECHNOLOGY.**
 
